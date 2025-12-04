@@ -1,0 +1,1 @@
+export const r2={id:2,name:"Geography",taskDescription:"Which continent is the smallest",correctAnswer:"Australia"}

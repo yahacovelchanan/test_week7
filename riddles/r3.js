@@ -1,0 +1,1 @@
+export const r3={id:3,name:"History",taskDescription:"Who was the first referee after Yehoshua Ben Nun",correctAnswer:"Otniel Ben Kenaz"}

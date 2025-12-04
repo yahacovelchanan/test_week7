@@ -1,0 +1,1 @@
+export const r5={id:5,name:"Sports",taskDescription:"Who is the top scorer of the Israeli national football team of all time",correctAnswer:"Eran Zahavi"}

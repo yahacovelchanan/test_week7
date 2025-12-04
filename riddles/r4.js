@@ -1,0 +1,1 @@
+export const r4={id:4,name:"Judaism",taskDescription:"On what day of the year is there an additional prayer besides Shacharit, Mincha, Aravit or Musaf",correctAnswer:"Yom Kippur"}
